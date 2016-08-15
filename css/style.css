@@ -1239,6 +1239,48 @@ img {
 	text-transform: uppercase;
 	width: 500px;
 }
+#body .header div p {
+	color: #A3A3A3;
+	display: block;
+	font-family: audiowide-regular-webfont;
+	font-size: 15px;
+	font-weight: normal;
+	line-height: 23px;
+	margin: 0 auto;
+	padding:0  0px;
+	text-align: center;
+	text-transform: uppercase ;
+	width: 900px;
+        float: none;
+}
+#body .header .contact p {
+	color: #A3A3A3;
+	display: block;
+	font-family: audiowide-regular-webfont;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 23px;
+	margin: 0 auto;
+	padding:0 117px 0px;
+	text-align: center;
+	text-transform: uppercase ;
+	width: 100%;
+        float: none;
+}
+#body .header .contact p div #regis{
+	color: #A3A3A3;
+	display: block;
+	font-family: audiowide-regular-webfont;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 23px;
+	margin: 0 auto;
+	padding:0 120px 0px;
+	text-align: center;
+	text-transform: uppercase ;
+	width: 100%;
+        float: none;
+}
 #body .header div form {
 	display: block;
 	margin: 0 auto;
@@ -1258,8 +1300,14 @@ img {
 	margin: 0 0 29px;
 	padding: 0 0 0 20px;
 	text-align: left;
-	text-transform: uppercase;
+	
 	width: 441px;
+}
+#body .header div form p li p{
+	display: block;
+	margin: 0 auto;
+	padding: 0;
+	width: 700px;
 }
 #body .header div form textarea {
 	background-color: #A3A3A3;
