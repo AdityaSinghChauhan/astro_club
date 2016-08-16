@@ -1,5 +1,17 @@
 <!doctype html>
 <!-- Website template by freewebsitetemplates.com -->
+<?php
+       
+        session_start();
+        $log="Login";
+        $link="login.php";
+       if(isset($_SESSION['SESS_FIRST_NAME']))
+       {
+           $log="Logout ".$_SESSION['SESS_FIRST_NAME'];
+           $link="logout.php";
+           
+       }
+       ?>
 <html>
 <head>
 	<meta charset="UTF-8">
@@ -37,7 +49,7 @@
 						<a href="contact.php">Contact</a>
 					</li>
                                         <li>
-						<a href="login.php">Login</a>
+						<a href="<?php echo $link; ?>"><?php echo $log; ?></a>
 					</li>
 				</ul>
 			</div>

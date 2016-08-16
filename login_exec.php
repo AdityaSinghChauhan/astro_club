@@ -56,7 +56,7 @@
 			$fetch = mysql_fetch_assoc($result);
 			$_SESSION['SESS_TYPE'] = $fetch['type'];
 			$_SESSION['SESS_FIRST_NAME'] = $fetch['fname'];
-                        $_SESSION['SESS_ID'] = $fetch['STUD_ID'];
+                       
                         session_write_close();
                         if($fetch['type']=="admin")
                         {
