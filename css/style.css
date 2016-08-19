@@ -6,7 +6,7 @@ body {
 	width: auto;
 }
 body #page {
-	background: url("../images/bg-home.jpg") no-repeat scroll center top #000000;
+	background: url("../images/nightfall_starlight_panoramic7.jpg") no-repeat scroll center top #000000;
 	margin: 0;
 	overflow: hidden;
 	padding: 0;
@@ -177,11 +177,11 @@ img {
 }
 #body.home .header div img.satellite {
 	display: block;
-	left: 10px;
+	left: 20px;
 	margin: 0;
 	padding: 0;
 	position: absolute;
-	top: 41px;
+	top: 121px;
 	width: auto;
 	z-index: 50;
 }
@@ -297,7 +297,7 @@ img {
 	opacity: 0.7;
 }
 #body.home .body {
-	background-color: #630031;
+	background-color: #320a94;
 	margin: 0;
 	min-height: 168px;
 	overflow: hidden;
@@ -1436,7 +1436,7 @@ img {
         
 }
 #footer .connect {
-	background-color: #630031;
+	background-color: #320a94;
 	margin: 0;
 	min-height: 84px;
 	overflow: hidden;
