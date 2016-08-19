@@ -662,6 +662,15 @@ img {
 	padding: 0;
 	width: 100%;
 }
+
+#body.about .footer2 {
+	background-color: #3c0f38;
+	margin: 0;
+	min-height: 366px;
+	padding: 0;
+	width: 100%;
+}
+
 #body.about .footer div {
 	margin: 0 auto;
 	overflow: hidden;
@@ -714,6 +723,64 @@ img {
 	padding: 0;
 	width: auto;
 }
+
+
+#body.about .footer2 div {
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 79px 0 0 10px;
+	width: 950px;
+}
+#body.about .footer2 div h2 {
+	color: #A3A3A3;
+	float: right;
+	font-family: audiowide-regular-webfont;
+	font-size: 23px;
+	font-weight: normal;
+	line-height: 23px;
+	margin: 34px 0 24px;
+	padding: 0;
+	text-align: left;
+	text-transform: uppercase;
+	width: 557px;
+}
+#body.about .footer2 div p {
+	color: #ffffff;
+	display: block;
+	float: right;
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0 auto;
+	padding: 0;
+	text-align: left;
+	width: 557px;
+}
+#body.about .footer2 div p a {
+	color: #ffffff;
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 24px;
+	margin: 0 auto;
+	padding: 0;
+	text-decoration: underline;
+}
+#body.about .footer2 div p a:hover {
+	color: #a3a3a3;
+}
+#body.about .footer2 div img {
+	float: left;
+	display: block;
+	margin: 0;
+	padding: 0;
+	width: auto;
+}
+
+
+
+
 #body.about .section {
 	background-color: #3c0f38;
 	margin: 0;
