@@ -150,7 +150,7 @@ $link5 = $row['link_5'];
             <div id="body" class="home">
                 <div class="header">
                     <div>
-                        <img src="images/satellite.png" alt="" class="satellite">
+                                <img src="images/telescope.png" alt="" class="satellite">
                         <h1>The Astro Club</h1>
 
                         <h3>FEATURED ACTIVITIES</h3>
