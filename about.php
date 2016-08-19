@@ -78,29 +78,18 @@
                                         <p>If you are passionate about science or want to know about the universe you live in or enjoy looking at the sky, You can be a part of <b>The Astro Club</b> by registering <a href='register.php'>here</a>...</p>
                                 </div>
 			</div>
-			<div class="section">
-                            <div>
+			<div class="footer2">
+			<div>
 					<img src="images/space-shuttle.png" alt="">
-                            </div>
-				<div>
 					<h2>Our Affiliations</h2>
                                         <p>
-                                        <ul class="affiliates">
-                                            <li>
-                                                Vigyan Prasar, Dept. of Sciecne and Technology, Govt. of India
-                                            </li>
-                                            <li>
+                                                Vigyan Prasar, Dept. of Science and Technology, Govt. of India</br></br>
+                                           
                                                 Chhattisgarh Vigyan Sabha, Raipur
-                                            </li>
-                                             <li>
+												</br></br>
                                                 All India People Science Network
-                                            </li>
-                                        </ul>
                                 </p>
-                                </div>
-                            <div>
-					<img src="images/space-shuttle.png" alt="">
-                            </div>
+								</div>
 			</div>
 		</div>
 		<div id="footer">
