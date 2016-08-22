@@ -67,22 +67,100 @@ if (isset($_SESSION['SESS_FIRST_NAME'])) {
 				<div>
 					<h1>Our Team</h1>
 					<ul>
-						<li>
-							<a href="proj1.html"><img src="images/curious-rover.jpg" alt=""></a>
+                                            <li>
+                                                    <a href="#"><img src="images/team/robinson.jpg" alt=""  width="380" height="217"></a>
 							<div>
-								<h1>MARS CURIOSITY ROVER </h1>
-								<p>Our website templates are created with inspiration, checked for quality and originality and meticulously sliced and coded. What’s more, they’re absolutely free! You can do a lot with them. You can modify them. You can use them to design websites for clients, so long as you agree with the Terms of Use.</p>
-								<a href="proj1.html" class="more">Read More</a>
+								<h1>C S Robinson</h1>
+                                                                <p> The one who is the reason behind The Astro Club. A physics professor by profession, preacher by interest and  a farmer by hobby. He can make a grade 5 student understand Relativity better than a BSc Student. He is the one who shields all of us from all the odds and gives credit to the team whenever club achieves something good. Above everything, unarguably he is a great human with the greatest heart. Wish there were professors all over the nation like him. </p>
+                                                                <a href="https://www.facebook.com/aditya.singh.923" class="more">Read More</a>
 							</div>
 						</li>
 						<li>
-							<a href="proj1.html"><img src="images/space-station.jpg" alt=""></a>
+                                                    <a href="https://www.facebook.com/aditya.singh.923"><img src="images/team/aditya.jpg" alt=""  width="380" height="217"></a>
 							<div>
-								<h1>INTERTERNATIONAL SPACE STATION</h1>
-								<p>Looking for more templates? Just browse through all our Free Website Templates and find what you’re looking for. But if you don’t find any website template you can use, you can try our Free Web Design service and tell us all about it. Maybe you’re looking for something different, something special.</p>
-								<a href="proj1.html" class="more">Read More</a>
+								<h1>Aditya Singh Chauhan</h1>
+                                                                <p> The one who started it all. An astronomy enthusiast whose first love is Astronomy and Second Coding.  His hobbies include gazing stars and writing poetry. A workaholic by nature, he panics when he doesn't have anything to do. He's passionate about social issues like Education and Health Care and dreams of solving these issues with the power of Computers.</p>
+                                                                <a href="https://www.facebook.com/aditya.singh.923" class="more">Read More</a>
 							</div>
 						</li>
+						<li>
+							<a href="https://www.facebook.com/ashutosh.deshpande1"><img src="images/team/ashutosh.jpg" alt="" width="380" height="217"></a>
+							<div>
+								<h1>Ashutosh Deshpande</h1>
+                                                                <p>The one who has now taken over at BIT,Durg. He is a nerd, a walking calendar, a calculator, and the periodic table. He will rap whole of periodic table just in 25 secs (if you can understand what he says ;) ). He loves to play Piano, Chess, and Badminton. He has studied Electronics as well as Computer Science. He loves to gaze at stars whenever he gets free time.</p>
+                                                                <a href="https://www.facebook.com/aaditya.deshpande2" class="more">Read More</a>
+							</div>
+						</li>
+                                                <li>
+							<a href="https://m.facebook.com/swarnika.dwivedi"><img src="images/team/swarnika.jpg" alt="" width="380" height="217"></a>
+							<div>
+								<h1>Swarnika Dwivedi</h1>
+                                                                <p>She is an electronic engineer who is also interested in astronomy. She loves to read novels. Food and novels are the only thing that can cure her stress. She is a national level roller skater. </p>
+                                                                <a href="https://m.facebook.com/swarnika.dwivedi" class="more">Read More</a>
+							</div>
+						</li>
+                                              
+                                                <li>
+							<a href="https://www.facebook.com/sakshi.jha.7737"><img src="images/team/sakshi.jpg" alt="" width="380" height="217"></a>
+							<div>
+								<h1>Sakshi Jha</h1>
+                                                               
+                                                                <p>
+                                                                    The one who is always ready to volunteer no matter what the event is. A perfection freak and most polite one in the group.
+Her cool and calm personality makes her easy to talk to. She is quick witted. And will tickle your funny bone when she is in a good mood..!!
+                                                                </p><a href="https://www.facebook.com/sakshi.jha.7737" class="more">Read More</a>
+							</div>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.facebook.com/profile.php?id=100001005408482"><img src="images/team/sachi.jpg" alt="" width="380" height="217"></a>
+                                                    <div>
+                                                        <h1>Sachi</h1>
+                                                        <p>The one who’s a CRICKET buff. Electronics engineer fascinated by astronomy
+
+                                                            .Keen to learn new things and wants to travel the world.Gregarious, amiable and fluent in sarcasm
+
+                                                            .Baking is her therapy and likes to end her day with an episode of F.R.I.E.N.D.S. .Lives by the
+
+                                                            quote “Whatever happens ,happens for a reason”.</p>
+                                                        <a href="https://www.facebook.com/profile.php?id=100001005408482" class="more">Read More</a>
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <a href="https://www.facebook.com/sujoy.mukharjee"><img src="images/team/sujoy.jpg" alt="" width="380" height="217"></a>
+                                                    <div>
+                                                        <h1>Sujoy Mukherjee</h1>
+                                                        <p>The born diplomat, passionate, carefree philosopher with very healthy optimism. He is an indigenous strategist and a big time foodie.  The one with very good teaching skills. His hobbies include gazing stars, loves adventures.</p>
+                                                        <a href="https://www.facebook.com/sujoy.mukharjee" class="more">Read More</a>
+							</div>
+						</li>
+                                                
+                                                 <li>
+							<a href="https://www.facebook.com/harish.1104"><img src="images/team/harish.jpg" alt="" width="380" height="217"></a>
+							<div>
+								<h1>Harish Gavel</h1>
+                                                                <p>The one who is always busy with his engineering weapons and coding mind. Robotics is his  love and electronic gadgets his companions .Remains quite indulged in his "the astronomer" related stuffs. Cant sit idle , has to do something or the other,yes a workaholic. The left out time is devoted to his large circle of friends. Tries to enjoy every single moment of his life what soever be the circumstances.</p>
+                                                                <a href="https://www.facebook.com/harish.1104" class="more">Read More</a>
+							</div>
+						</li>
+                                                 <li>
+							<a href="https://www.facebook.com/profile.php?id=100002339713244"><img src="images/team/arhum.jpg" alt="" width="380" height="217"></a>
+							<div>
+								<h1>Arhum Ahmad</h1>
+                                                                <p>One who believes in punctuality and hardwork runs in his blood. Curiosity is what drives him from within. He loves experimenting new things and earning knowledge. As hobbies he likes reading detective novels, playing football, sky watching and observing things in outer space. He also is a very good listener. He has dreams much  taller than his height. He follows the phrase "Be the change you want to see".</p>
+                                                                <a href="https://www.facebook.com/profile.php?id=100002339713244" class="more">Read More</a>
+							</div>
+						</li>
+                                                  <li>
+							<a href="https://www.facebook.com/profile.php?id=100002339713244"><img src="images/team/akansha.jpg" alt="" width="380" height="217"></a>
+							<div>
+								<h1>Akanksha Vishwakarma</h1>
+                                                                
+                                                                <p>The one who is passionate to learn new things. She knows how to create something new, out of the garbage. She owns good sense of humour. She loves singing when alone and studying about the new phenomenon.</p>
+                                                                <a href="https://www.facebook.com/profile.php?id=100002339713244" class="more">Read More</a>
+							</div>
+						</li>
+                                                
+                                                
 					</ul>
 				</div>
 			</div>
@@ -107,14 +185,5 @@ if (isset($_SESSION['SESS_FIRST_NAME'])) {
             </div>
         </div>
     </body>
-    <ul id="about" class="flexdropdownmenu">
-<li><a href="about.php">About Us</a></li>
-<li><a href="team.php">Our Team</a></li>
-<li><a href="registration.php">Be a Part</a></li>
-<ul>
-<ul id="activity" class="flexdropdownmenu">
-<li><a href="activities.php">Our Activities</a></li>
-<li><a href="assignments.php">Our Assignments</a></li>
-<li><a href="/wp">Blog</a></li>
-<ul>
+    
 </html>

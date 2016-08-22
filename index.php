@@ -156,16 +156,16 @@ $link5 = $row['link_5'];
                         <h3>FEATURED ACTIVITIES</h3>
                         <ul>
                             <li>
-                                <a href="activities.php"><img src="images/aditya_astro_patrika(1).jpg" alt="" height="156" width="235"></a>
+                                <a href="activities.php"><img src="images/activity1.jpg" alt="" height="156" width="235"></a>
                             </li>
                             <li>
-                                <a href="activities.php"><img src="images/aditya_astro_patrika(1).jpg" alt="" height="156" width="235"></a>
+                                <a href="activities.php"><img src="images/activity2.jpg" alt="" height="156" width="235"></a>
                             </li>
                             <li>
-                                <a href="activities.php"><img src="images/aditya_astro_patrika(1).jpg" alt="" height="156" width="235"></a>
+                                <a href="activities.php"><img src="images/activity3.jpg" alt="" height="156" width="235"></a>
                             </li>
                             <li>
-                                <a href="activities.php"><img src="images/aditya_astro_patrika(1).jpg" alt="" height="156" width="235"></a>
+                                <a href="activities.php"><img src="images/activity4.jpg" alt="" height="156" width="235"></a>
                             </li>
                         </ul>
                     </div>
@@ -257,10 +257,5 @@ $link5 = $row['link_5'];
             </div>
         </div>
     </body>
-    <ul id="about" class="flexdropdownmenu">
-
-        <ul>
-            <ul id="activity" class="flexdropdownmenu">
-
-                <ul>
+    
                     </html>

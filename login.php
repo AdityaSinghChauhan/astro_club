@@ -19,15 +19,25 @@ unset($_SESSION['SESS_TYPE']);
             <div id="header">
                 <div>
 
-                    <ul id="navigation">
+                   <ul id="navigation">
                         <li>
                             <a href="index.php">Home</a>
                         </li>
-                        <li>
-                            <a href="about.php">About Us</a>
+                        <li class="menu">
+                            <a href="#" >About Us</a>
+                            <ul class="primary">
+                                <li><a href="about.php">About Us</a></li>
+                                <li><a href="team.php">Our Team</a></li>
+                                <li><a href="registration.php">Be a Part</a></li>
+                            </ul>
                         </li>
                         <li class="menu">
-                            <a href="activities.php">Activities</a>
+                            <a href="#" data-flexmenu="activity">Activities</a>
+                            <ul class="primary">
+                                <li><a href="activities.php">Our Activities</a></li>
+                                <li><a href="assignments.php">Our Assignments</a></li>
+                                <li><a href="/wp">Blog</a></li>
+                            </ul>
                         </li>
                         <li class="menu">
                             <a href="blog.php">Blog</a>
@@ -42,7 +52,7 @@ unset($_SESSION['SESS_TYPE']);
                             <a href="contact.php">Contact</a>
                         </li>
                         <li>
-                            <a href="login.php">Login</a>
+                            <a href="<?php echo $link; ?>"><?php echo $log; ?></a>
                         </li>
                     </ul>
                 </div>
