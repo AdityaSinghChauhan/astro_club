@@ -1,1 +1,1 @@
-# astro_club
+http://astro-club.cgvigyansabha.in
